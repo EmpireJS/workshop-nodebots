@@ -40,6 +40,7 @@ All attendees need to do this **prior** to attending EmpireNode:
 3. Install [johnny-five](https://www.npmjs.org/package/johnny-five)
 
 ### Materials
-We have kits! Feel free to bring stickers, glitter, or magic to add your own pizzazz.
+**Your laptop**  
+Otherwise, we are providing the hardware kits! Feel free to bring stickers, glitter, or magic to add your own pizzazz.
 
 Here are the slides for the beginners https://dl.dropboxusercontent.com/u/3531958/empirenode/index.html
