@@ -23,4 +23,5 @@ Materials for EmpireNode 2014 nodebots workshop
 *if any. Please indicate if no prep is required.*
 
 ### Materials
-*if any*
+
+Here are the slides for the beginners https://dl.dropboxusercontent.com/u/3531958/empirenode/index.html
