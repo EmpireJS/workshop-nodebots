@@ -35,7 +35,7 @@ Wire up an Arduino, connect the USB and you can see you solution run for real.
 ## Preparations for this training
 All attendees need to do this **prior** to attending EmpireNode:
 
-1. Install [Node.js](http://nodejs.org/)--this ships npm with too! This **must** be a 0.10.x stable release.
+1. Install [Node.js](http://nodejs.org/)--this ships with npm too! This **must** be a 0.10.x stable release.
 2. Install [node-gyp dependencies for your system](https://github.com/TooTallNate/node-gyp#installation)
 3. Install [johnny-five](https://www.npmjs.org/package/johnny-five)
 
